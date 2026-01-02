@@ -370,16 +370,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 139.7) (xy 182.88 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f967cb4-fae3-4051-8070-ead68e93ccd9")
-	)
-	(wire
-		(pts
 			(xy 114.3 76.2) (xy 119.38 76.2)
 		)
 		(stroke
@@ -387,16 +377,6 @@
 			(type default)
 		)
 		(uuid "10d70181-702a-48f2-92af-b7b8e9f33582")
-	)
-	(wire
-		(pts
-			(xy 165.1 114.3) (xy 182.88 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "157f38b3-d9e9-4c6f-94e7-dd14bdbcc470")
 	)
 	(wire
 		(pts
@@ -450,16 +430,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 114.3) (xy 195.58 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40f0f78d-a72d-44c2-a079-fb782b85f0df")
-	)
-	(wire
-		(pts
 			(xy 165.1 101.6) (xy 182.88 101.6)
 		)
 		(stroke
@@ -477,16 +447,6 @@
 			(type default)
 		)
 		(uuid "43dbb5dc-0746-4505-9ae4-95c4920c6190")
-	)
-	(wire
-		(pts
-			(xy 190.5 152.4) (xy 195.58 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "466ed666-1f65-42b0-8246-7b60aa8ef40f")
 	)
 	(wire
 		(pts
@@ -550,16 +510,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 139.7) (xy 195.58 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0bff1bf-5996-4eb0-8cc5-d7aa734728d3")
-	)
-	(wire
-		(pts
 			(xy 74.93 38.1) (xy 87.63 38.1)
 		)
 		(stroke
@@ -567,16 +517,6 @@
 			(type default)
 		)
 		(uuid "d21e1a1b-ed1e-4b97-baf4-16e340d341ef")
-	)
-	(wire
-		(pts
-			(xy 165.1 152.4) (xy 182.88 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d41ccf8f-9809-4ccf-8f58-1d85470b658a")
 	)
 	(wire
 		(pts
@@ -620,16 +560,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 127) (xy 195.58 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e89ed686-8a02-46cb-a1bd-874266395f54")
-	)
-	(wire
-		(pts
 			(xy 88.9 127) (xy 106.68 127)
 		)
 		(stroke
@@ -637,16 +567,6 @@
 			(type default)
 		)
 		(uuid "e967e47b-f736-4440-939c-67c192a31add")
-	)
-	(wire
-		(pts
-			(xy 165.1 127) (xy 182.88 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eece067e-43c0-41e2-97da-7fc900eee195")
 	)
 	(wire
 		(pts
@@ -719,16 +639,6 @@
 		(uuid "283efd62-5ed5-4bfd-b45f-14279496ad92")
 	)
 	(label "COMMON"
-		(at 157.48 139.7 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "611876d3-a0b6-43a6-b4ac-43ef6af6da23")
-	)
-	(label "COMMON"
 		(at 157.48 76.2 180)
 		(effects
 			(font
@@ -799,16 +709,6 @@
 		(uuid "9098699d-4bc3-4955-b6c9-59cc92974bf9")
 	)
 	(label "COMMON"
-		(at 157.48 152.4 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a3c99a17-3b1a-4912-8782-b7323935c30d")
-	)
-	(label "COMMON"
 		(at 87.63 38.1 0)
 		(effects
 			(font
@@ -817,16 +717,6 @@
 			(justify left bottom)
 		)
 		(uuid "b31bdc31-8184-4d62-9cfa-cefe79e04c21")
-	)
-	(label "COMMON"
-		(at 157.48 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d952b5c0-eefe-4781-be44-ebe406b95d60")
 	)
 	(label "COMMON"
 		(at 157.48 101.6 180)
@@ -857,16 +747,6 @@
 			(justify right bottom)
 		)
 		(uuid "f9f0e94a-f3d0-481d-b9db-c262a2e50276")
-	)
-	(label "COMMON"
-		(at 157.48 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fe35e993-c857-4888-bfbc-307249cff4e1")
 	)
 	(hierarchical_label "LED2"
 		(shape passive)
@@ -933,50 +813,6 @@
 			(justify left)
 		)
 		(uuid "b3fbbb7f-fe2a-4ea1-a150-b2c0dba3618f")
-	)
-	(hierarchical_label "LED13"
-		(shape passive)
-		(at 195.58 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3fbbb7f-fe2a-4ea1-a150-b2c0dba36190")
-	)
-	(hierarchical_label "LED12"
-		(shape passive)
-		(at 195.58 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3fbbb7f-fe2a-4ea1-a150-b2c0dba36191")
-	)
-	(hierarchical_label "LED15"
-		(shape passive)
-		(at 195.58 152.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3fbbb7f-fe2a-4ea1-a150-b2c0dba36192")
-	)
-	(hierarchical_label "LED14"
-		(shape passive)
-		(at 195.58 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3fbbb7f-fe2a-4ea1-a150-b2c0dba36193")
 	)
 	(hierarchical_label "LED9"
 		(shape passive)
@@ -1120,37 +956,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape diamond)
-		(at 176.53 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1944ad32-5c84-4442-a4b8-9a235db7b13e")
-		(property "Netclass" "LED_A"
-			(at 177.7365 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -40.64 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
 		(at 176.53 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1202,37 +1007,6 @@
 		)
 		(property "Component Class" ""
 			(at -116.84 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
-		(at 194.31 152.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2bd59638-0fc6-4e76-8d1e-97d4c5ce8aa9")
-		(property "Netclass" "LED_K"
-			(at 195.5165 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -24.13 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1430,37 +1204,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape diamond)
-		(at 176.53 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "756f80cd-dcb3-49fa-8898-0e4ea1b65686")
-		(property "Netclass" "LED_A"
-			(at 177.7365 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -40.64 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
 		(at 194.31 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1492,37 +1235,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape diamond)
-		(at 194.31 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "96ac3127-0d72-4c75-b9ab-cf90234db1d4")
-		(property "Netclass" "LED_K"
-			(at 195.5165 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -24.13 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
 		(at 100.33 152.4 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1543,37 +1255,6 @@
 		)
 		(property "Component Class" ""
 			(at -116.84 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
-		(at 176.53 152.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a4498fb0-009e-4a40-ae3c-a2a6ea40967d")
-		(property "Netclass" "LED_A"
-			(at 177.7365 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1740,37 +1421,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape diamond)
-		(at 194.31 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d05c4035-d7fa-49c0-85ba-07822535b938")
-		(property "Netclass" "LED_K"
-			(at 195.5165 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -24.13 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
 		(at 194.31 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1822,37 +1472,6 @@
 		)
 		(property "Component Class" ""
 			(at -100.33 3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
-		(at 176.53 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dd86b759-2ca0-49e1-b867-8409bdfc643a")
-		(property "Netclass" "LED_A"
-			(at 177.7365 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1946,37 +1565,6 @@
 		)
 		(property "Component Class" ""
 			(at -116.84 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape diamond)
-		(at 194.31 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ee17cee1-5d50-47c8-ab14-2e2af4626696")
-		(property "Netclass" "LED_K"
-			(at 195.5165 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -24.13 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2329,142 +1917,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 161.29 127 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ea91f0a-01a9-4cae-9a01-26481eeb1294")
-		(property "Reference" "RD13"
-			(at 161.29 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_US"
-			(at 161.29 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 161.036 128.016 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 161.29 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 161.29 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6990b1ae-273a-4ae7-a5ef-3a5dcb21e6dc")
-		)
-		(pin "2"
-			(uuid "aed314b8-3081-4b8b-b01d-85a34c3a54aa")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "RD13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 161.29 152.4 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "18c55bde-14e2-4cd3-95e2-4709f2caf2e1")
-		(property "Reference" "RD15"
-			(at 161.29 146.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_US"
-			(at 161.29 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 161.036 153.416 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 161.29 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 161.29 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87229659-3e78-4465-b016-73ac16fe1c3a")
-		)
-		(pin "2"
-			(uuid "49661081-3221-4aa0-a0cb-5c8bf55328bd")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "RD15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 186.69 76.2 180)
 		(unit 1)
@@ -2536,83 +1988,6 @@
 			(project "LivLaughLamp"
 				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
 					(reference "LED9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 114.3 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "215a25a9-e092-486d-b59f-fb19f4a6e511")
-		(property "Reference" "LED12"
-			(at 188.2775 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 188.2775 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Cree-XP-G"
-			(at 186.69 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8cf49bb7-14f1-4401-8437-084270c89e06")
-		)
-		(pin "1"
-			(uuid "7f31cf71-f37c-485e-adf6-356055f429b4")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "LED12")
 					(unit 1)
 				)
 			)
@@ -3422,74 +2797,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 161.29 114.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "896e8549-a7d6-4826-86a6-e5bd8c465e99")
-		(property "Reference" "RD12"
-			(at 161.29 107.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_US"
-			(at 161.29 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 161.036 115.316 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 161.29 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 161.29 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3ad11daa-33e9-4f7c-836a-6bdaf409451e")
-		)
-		(pin "2"
-			(uuid "ef748d53-fa25-44d6-8f55-4f98cf8ba752")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "RD12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
 		(at 85.09 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3696,151 +3003,6 @@
 			(project "LivLaughLamp"
 				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
 					(reference "LED11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 161.29 139.7 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b025cf56-cddd-4cb6-9428-09a7f2e69c40")
-		(property "Reference" "RD14"
-			(at 161.29 133.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_US"
-			(at 161.29 135.89 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 161.036 140.716 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 161.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 161.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9263309e-83c7-4560-bb0c-88420801b9ed")
-		)
-		(pin "2"
-			(uuid "e77ef1c4-6faa-43bc-aa68-27203c76373f")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "RD14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 127 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6871627-feaa-4b33-8991-9376d9092743")
-		(property "Reference" "LED13"
-			(at 188.2775 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 188.2775 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Cree-XP-G"
-			(at 186.69 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "19000316-3d3f-4d4b-adc4-a4741e89d747")
-		)
-		(pin "1"
-			(uuid "19460b60-c6c3-42fa-bd0e-acd17621fcc8")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "LED13")
 					(unit 1)
 				)
 			)
@@ -4208,160 +3370,6 @@
 			(project "LivLaughLamp"
 				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
 					(reference "LED8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 139.7 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ebf9e514-e4c5-4adc-b916-d1d897fe63d6")
-		(property "Reference" "LED14"
-			(at 188.2775 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 188.2775 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Cree-XP-G"
-			(at 186.69 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ef02d565-3ca5-46ee-a6be-969561d09292")
-		)
-		(pin "1"
-			(uuid "60512171-7a4f-4d81-8fb7-d91eed642ad4")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "LED14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 152.4 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fefa9f12-9f8e-4399-8290-95a4308b600c")
-		(property "Reference" "LED15"
-			(at 188.2775 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 188.2775 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Cree-XP-G"
-			(at 186.69 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "84969c61-e748-43a4-9051-a719a00a0a41")
-		)
-		(pin "1"
-			(uuid "5b8aa5d6-e92a-4257-b381-8cfdb6d577dd")
-		)
-		(instances
-			(project "LivLaughLamp"
-				(path "/c9fc7bcc-477f-47b7-a225-aab3091ec342/cc0cdcda-c079-43be-80ed-6df1ef98710e"
-					(reference "LED15")
 					(unit 1)
 				)
 			)
