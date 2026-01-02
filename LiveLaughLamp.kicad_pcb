@@ -10011,6 +10011,7 @@
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(free yes)
+		(tenting none)
 		(net 1)
 		(uuid "24058725-45ab-4477-91da-086aebf80df7")
 	)
@@ -10074,6 +10075,7 @@
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(free yes)
+		(tenting none)
 		(net 1)
 		(uuid "2b39a589-c943-42f3-bcd6-695e80f921c5")
 	)
@@ -10614,6 +10616,7 @@
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(free yes)
+		(tenting none)
 		(net 1)
 		(uuid "77cc010b-97c0-43fc-935e-d896d4e873a1")
 	)
@@ -11568,6 +11571,7 @@
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(free yes)
+		(tenting none)
 		(net 1)
 		(uuid "e77674cd-ceed-4efe-b270-d9470960a463")
 	)
@@ -11595,6 +11599,7 @@
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(free yes)
+		(tenting none)
 		(net 1)
 		(uuid "ebc04fa3-4c2e-43d1-b115-fd32e6941140")
 	)
@@ -11730,6 +11735,7 @@
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(free yes)
+		(tenting none)
 		(net 1)
 		(uuid "f802f9ee-7f2b-4b31-99be-86e693652467")
 	)
@@ -14553,7 +14559,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layers "*.Mask")
+		(layer "F.Mask")
 		(uuid "79234138-d676-42e6-b96d-866077c2b43b")
 		(hatch edge 0.5)
 		(connect_pads
@@ -14572,16 +14578,6 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island)
-			(pts
-				(xy 209.343039 110.819685) (xy 209.388794 110.872489) (xy 209.4 110.924) (xy 209.4 113.676) (xy 209.380315 113.743039)
-				(xy 209.327511 113.788794) (xy 209.276 113.8) (xy 206.524 113.8) (xy 206.456961 113.780315) (xy 206.411206 113.727511)
-				(xy 206.4 113.676) (xy 206.4 110.924) (xy 206.419685 110.856961) (xy 206.472489 110.811206) (xy 206.524 110.8)
-				(xy 209.276 110.8)
-			)
-		)
-		(filled_polygon
-			(layer "B.Mask")
 			(island)
 			(pts
 				(xy 209.343039 110.819685) (xy 209.388794 110.872489) (xy 209.4 110.924) (xy 209.4 113.676) (xy 209.380315 113.743039)
