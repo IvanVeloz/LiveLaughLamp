@@ -2846,7 +2846,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k22"
+		(property "Value" "1k2 1%"
 			(at 91.44 106.6799 0)
 			(effects
 				(font
@@ -3452,7 +3452,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k22 1%"
+		(property "Value" "1k2 1%"
 			(at 195.58 128.2699 0)
 			(effects
 				(font
@@ -3522,7 +3522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PESD3V3S1UL"
+		(property "Value" "PESD3V3L1ULSYL"
 			(at 64.77 115.5699 90)
 			(effects
 				(font
